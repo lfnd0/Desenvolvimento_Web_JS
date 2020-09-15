@@ -1,0 +1,12 @@
+- Tag:
+    Tag de abertura:
+        - <tag>
+    Tag de fechamento:
+        - </tag>
+    Tag de auto-fechamento:
+        - <tag>
+
+
+- Elemento HTML:
+    Junção da tag de abertura e tag de fechamento:
+        - <tag>Conteúdo</tag>

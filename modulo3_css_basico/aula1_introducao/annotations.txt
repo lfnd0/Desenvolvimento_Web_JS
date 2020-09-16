@@ -1,0 +1,8 @@
+- Tipos de CSS:
+    CSS inline
+    CSS interno
+    CSS externo
+
+
+- Link útil:
+    https://www.w3schools.com/css/default.asp

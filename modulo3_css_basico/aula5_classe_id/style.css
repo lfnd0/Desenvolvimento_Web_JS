@@ -1,0 +1,27 @@
+#sumario, li, a {
+    color: red;
+}
+
+#introducao {
+    color: blue;
+}
+
+.paragrafo-introducao {
+    color: blue;
+}
+
+#desenvolvimento {
+    color: green;
+}
+
+.paragrafo-desenvolvimento {
+    color: green;
+}
+
+#conclusao {
+    color: gray;
+}
+
+.paragrafo-conclusao {
+    color: gray;
+}

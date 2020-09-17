@@ -1,0 +1,4 @@
+Google Chrome:
+    Ferramentas do desenvolvedor:
+        - F12
+        - Ctrl + Shift + I

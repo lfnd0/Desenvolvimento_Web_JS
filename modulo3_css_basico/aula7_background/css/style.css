@@ -1,0 +1,35 @@
+body {
+    /* background: url(../img/triangles.png) center/cover no-repeat  fixed; */
+    background-image: url(../img/triangles.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#sumario, li, a {
+    color: DodgerBlue;
+}
+
+#introducao {
+    color: rgb(0, 100, 200);
+}
+
+.paragrafo-introducao {
+    color: rgb(0, 100, 200);
+}
+
+#desenvolvimento {
+    color: rgba(0, 200, 0, 1);
+}
+
+.paragrafo-desenvolvimento {
+    color: rgba(0, 200, 0, 1);
+}
+
+#conclusao {
+    color: #70e5ae;
+}
+
+.paragrafo-conclusao {
+    color: #70e5ae;
+}

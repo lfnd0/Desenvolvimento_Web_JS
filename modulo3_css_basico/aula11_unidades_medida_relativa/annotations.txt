@@ -1,0 +1,14 @@
+- Módulo 3 aula 11
+    Unidades relativas:
+        - em
+        - rem
+        - vw
+        - vh
+        - vmin
+        - vmax
+        - %
+
+
+- Link útil:
+    Unidades de medida fixa e relativa:
+        https://www.w3schools.com/cssref/css_units.asp

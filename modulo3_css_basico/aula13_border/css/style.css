@@ -1,0 +1,38 @@
+/* Módulo 3 - Aula 13 */
+
+.border {
+   border-width: 2px;
+   border-color: red;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border-style: solid;
+    background-color: yellow;
+}
+
+.dotted {
+    border-style: dotted;
+}
+
+.dashed {
+    border-style: dashed;
+}
+
+.solid {
+    border-style: solid;
+}
+
+.none {
+    border-style: none;
+}
+
+.hidden {
+    border-style: hidden;
+}
+
+.border-ps {
+    border: 4px dashed red;
+}

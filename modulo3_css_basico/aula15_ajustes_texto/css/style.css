@@ -1,0 +1,13 @@
+/* Módulo 3 - Aula */
+
+p {
+    color: red;
+    text-align: justify;
+    text-transform: initial;
+    text-indent: 35px;
+    text-decoration: none;
+    letter-spacing: 1.2px;
+    line-height: 16px;
+    word-spacing: 2px;
+    text-shadow: 1px 1px #bbb;
+}

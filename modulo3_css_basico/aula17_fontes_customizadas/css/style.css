@@ -1,0 +1,18 @@
+/* Módulo 3 - Aula 17 */
+
+.font-1 {
+    font-family: 'Pacifico', cursive;
+}
+
+.font-2 {
+    font-family: 'Indie Flower', cursive;
+}
+
+.font-3 {
+    font-family: 'Press Start 2P';
+}
+
+@font-face {
+    font-family: 'Press Start 2P';
+    src:url(../font/PressStart2P-Regular.ttf);
+}

@@ -1,0 +1,25 @@
+/* Módulo 3 - Aula 19 */
+
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
+    margin: 0;
+    padding: 10px;
+    background-color: #f3e;
+}
+
+ol {
+    list-style-type: upper-roman;
+    list-style-position: inside;
+    margin: 0;
+    padding: 10px;
+    background-color: #59e;
+}
+
+li {
+    border: 1px solid;
+    background-color: yellow;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}

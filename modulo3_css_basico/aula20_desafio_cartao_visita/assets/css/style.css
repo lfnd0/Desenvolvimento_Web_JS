@@ -1,0 +1,53 @@
+body {
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    font-family: 'Courier PS Std Regular';
+}
+
+h1 {
+    margin-left: 22px;
+    margin-bottom: 50px;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Courier PS Std Regular';
+    src: url(../font/courierpsregular.ttf);
+}
+
+ul {
+    padding: 0;
+    margin-left: 22px;
+}
+
+li {
+    list-style: none;
+    font-size: 22px;
+    margin-left: 40px;
+    margin-bottom: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #2a475e;
+}
+
+#github {
+    list-style-image: url('../img/github.png');
+}
+
+#instagram {
+    list-style-image: url('../img/instagram.png');
+}
+
+#email {
+    list-style-image: url('../img/email.png');
+}

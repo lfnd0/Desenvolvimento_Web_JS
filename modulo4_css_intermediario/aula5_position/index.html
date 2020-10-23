@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position</title>
+    <style type="text/css">
+        body {
+            font-size: 1.2rem;
+        }
+
+        .square {
+            width: 100px;
+            height: 100px;
+            display: inline-block;
+        }
+
+        .rectangle {
+            width: 200px;
+            height: 500px;
+            margin-top: 10px;
+            overflow: auto;
+        }
+
+        .bg-blue {
+            background-color: blue;
+        }
+
+        .bg-red {
+            background-color: red;
+        }
+
+        .bg-green {
+            background-color: green;
+        }
+
+        .static {
+            position: static;
+        }
+
+        .relative {
+            position: relative;
+        }
+
+        .fixed {
+            position: fixed;
+            right: 20px;
+            bottom: 20px;
+        }
+
+        .absolute {
+            position: absolute;
+            top: 40px;
+        }
+
+        .stick {
+            position: sticky;
+            top: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <div class="square bg-blue static"></div>
+
+    <div class="rectangle bg-blue relative">
+        <div class="square bg-red static"></div>
+    </div>
+
+    <div class="square bg-green fixed"></div> -->
+
+    <div class="rectangle bg-blue">
+        <div class="square bg-red"></div>
+        <div class="square bg-red"></div>
+        <div class="square bg-green stick"></div>
+        <div class="square bg-red"></div>
+        <div class="square bg-red"></div>
+        <div class="square bg-red"></div>
+        <div class="square bg-red"></div>
+        <div class="square bg-red"></div>
+        <div class="square bg-red"></div>
+        <div class="square bg-red"></div>
+    </div>
+</body>
+
+</html>

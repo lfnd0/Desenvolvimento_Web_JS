@@ -1,0 +1,3 @@
+- Link útil:
+    W3Schools (CSS position):
+        - https://www.w3schools.com/cssref/pr_class_position.asp

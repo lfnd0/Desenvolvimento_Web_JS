@@ -1,0 +1,7 @@
+- Links úteis:
+    W3Schools (CSS layout float):
+        - https://www.w3schools.com/css/css_float.asp
+    
+    
+    W3Schools (CSS layout clear):
+        - https://www.w3schools.com/css/css_float_clear.asp

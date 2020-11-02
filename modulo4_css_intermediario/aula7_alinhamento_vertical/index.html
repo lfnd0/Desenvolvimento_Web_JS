@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento vertical</title>
+    <style type="text/css">
+        body {
+            font-size: 1.2rem;
+        }
+
+        .card-1 {
+            float: left;
+            width: 400px;
+            height: 200px;
+            border: 2px solid green;
+            text-align: center;
+            position: relative;
+        }
+
+        .content-1 {
+            line-height: 200px;
+        }
+
+        .content-2 {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .card-2 {
+            clear: left;
+            float: left;
+            border: 2px solid green;
+            padding-left: 150px;
+            padding-right: 150px;
+            padding-top: 100px;
+            padding-bottom: 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card-1">
+        <div class="content-1">
+            George
+        </div>
+    </div>
+
+    <div class="card-1">
+        <div class="content-2">
+            Robbie
+        </div>
+    </div>
+
+    <div class="card-2">
+        <div style="background-color: red;">
+            Spencer
+        </div>
+    </div>
+
+</body>
+
+</html>

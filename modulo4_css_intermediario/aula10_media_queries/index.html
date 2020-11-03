@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media queries</title>
+    <style type="text/css">
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            overflow: hidden;
+            margin: auto;
+            width: 80%;
+            background: #5C57A4;
+            padding: 15px;
+            font-size: 18px;
+            color: white;
+        }
+
+        .logo {
+            float: left;
+        }
+
+        .menu {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            float: right;
+        }
+
+        li {
+            float: left;
+            margin-left: 15px;
+        }
+
+        @media screen and (max-width: 700px) {
+            .header {
+                background: grey;
+            }
+        }
+
+        @media screen and (max-width: 500px) {
+            .header {
+                background: red;
+            }
+
+            .logo {
+                float: none;
+                text-align: center;
+            }
+
+            .menu {
+                float: none;
+                text-align: center;
+                margin-top: 20px;
+            }
+
+            li {
+                float: none;
+                margin-bottom: 5px;
+                padding: 10px;
+                margin-left: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="logo">
+            Logo
+        </div>
+
+        <ul class="menu">
+            <li>Home</li>
+            <li>Sobre</li>
+            <li>Localização</li>
+            <li>Contato</li>
+        </ul>
+    </div>
+</body>
+
+</html>

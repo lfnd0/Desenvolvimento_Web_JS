@@ -1,0 +1,8 @@
+- Nomeclatura para declaração de variáveis:
+    nome_da_variavel
+    nomeDaVariavel
+
+
+- Observação:
+    - No JavaScript as letras minúsculas e maiúsculas são diferentes ("a" é diferente de "A").
+    - nomeDaVariavel é diferente de nomedavariavel.

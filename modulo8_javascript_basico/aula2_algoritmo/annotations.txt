@@ -1,0 +1,4 @@
+- Algoritmo:
+    - Sequência finita de passos.
+    - O computador é "burro", apenas sabe seguir instruções e não têm experiências prévias.
+    - As instruções precisam ser claras, sem ambiguidades e ordenadas de forma correta para evitar bugs.

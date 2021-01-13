@@ -1,0 +1,11 @@
+- Tipos de dados:
+    - String
+    - Number
+    - Null
+    - Boolean
+    - Undefined
+
+
+- Estilos de comentários:
+    - Comentário de uma única linha: // Texto do comentário
+    - Comentário de várias linhas: /* Texto do comentário */

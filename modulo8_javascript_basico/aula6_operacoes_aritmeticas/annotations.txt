@@ -1,0 +1,13 @@
+- Operações aritméticas:
+    - Adição (+)
+    - Subtração (-)
+    - Multiplicação (*)
+    - Divisão (/)
+    - Módulo (%)
+    - Incremento (++)
+    - Decremento (--)
+
+
+- A ordem incrementar/decrementar é importante e pode ser executada antes ou depois da atribuição (ver linhas 27 a 31):
+    - Linha 28: primeiro decrementa o valor de 'a' e depois realiza a atribuição ao 'b'.
+    - Linha 29: primeiro realiza a atribuição ao 'b' e depois decrementa o valor de 'a'.

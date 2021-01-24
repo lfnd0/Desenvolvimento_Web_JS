@@ -1,0 +1,17 @@
+- Operadores comparativos:
+    - Igual:
+        ==
+    - Estritamente igual (compara valor e tipo do dado):
+        ===
+    - Não é igual:
+        !=
+    - Não é estritamente igual (compara valor e tipo do dado):
+        !==
+    - Maior que:
+        >
+    - Menor que:
+        <
+    - Maior igual:
+        >=
+    - Menor igual:
+        <=

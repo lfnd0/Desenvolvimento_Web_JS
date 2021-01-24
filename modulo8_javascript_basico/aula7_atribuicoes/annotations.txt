@@ -1,0 +1,18 @@
+- Operações de atribuição:
+    - Atribuição simples:
+        x = y
+    
+    - Atribuição de soma:
+        x += y (x = x + y)
+    
+    - Atribuição de subtração:
+        x -= y (x = x - y)
+    
+    - Atribuição de multiplicação:
+        x *= y (x = x * y)
+    
+    - Atribuição de divisão:
+        x /= y (x = x / y)
+    
+    - Atribuição de módulo:
+        x %= y (x = x % y)

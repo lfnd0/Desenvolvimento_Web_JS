@@ -1,0 +1,5 @@
+- Operadores lógicos:
+    - And (e):
+        &&
+    - Or (ou):
+        ||

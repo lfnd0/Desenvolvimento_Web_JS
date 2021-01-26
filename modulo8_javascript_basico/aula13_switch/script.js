@@ -15,18 +15,28 @@ if (average >= 8) {
     status = "Insipiente";
 }
 
+// function print(status, average) {
+//     console.log("Conceito: " + status + "\nSua media e: " + average);
+// }
+
+// var print = function(status, average) {
+//     console.log("Conceito: " + status + "\nSua media e: " + average);
+// }
+
+var print = (status, average) => console.log("Conceito: " + status + "\nSua media e: " + average);
+
 switch (status) {
     case "Muito bom":
-        console.log("Conceito: " + status + "\nSua media e: " + average);
+        print(status, average);
         break;
     case "Bom":
-        console.log("Conceito: " + status + "\nSua media e: " + average);
+        print(status, average);
         break;
     case "Regular":
-        console.log("Conceito: " + status + "\nSua media e: " + average);
+        print(status, average);
         break;
     case "Insipiente":
-        console.log("Conceito: " + status + "\nSua media e: " + average);
+        print(status, average);
         break;
     default:
         console.log("Error")

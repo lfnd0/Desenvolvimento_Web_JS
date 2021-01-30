@@ -1,0 +1,8 @@
+- Arrays:
+    - Declaração:
+        var myArray1 = [];
+        var myArray2 = new Array();
+
+    - Leitura dos elementos em um array:
+        - for-in: pode ser usado para retornar a posição dos elementos no array.
+        for-of: pode ser usado para retornar os elementos do array.

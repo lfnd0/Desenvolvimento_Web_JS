@@ -1,0 +1,16 @@
+- Switch:
+    - Sintaxe:
+        switch (expressão) {
+            case valor1:
+                - Instruções executadas quando o resultado da expressão for igual ao valor1.
+                break;
+            case valor2:
+                - Instruções executadas quando o resultado da expressão for igual ao valor2.
+                break;
+            case valorN:
+                - Instruções executadas quando o resultado da expressão for igual ao valorN.
+                break;
+            default:
+                - Instruções executadas quando o valor da expressão é diferente de todos os 'cases'.
+                break;
+        }

@@ -21,3 +21,9 @@ console.log("Idade: ", age);
 console.log("Menor que 10 anos: ", young);
 console.log("Maior que 65 anos: ", aged);
 console.log("Gratuito: ", isFree);
+
+age = 35;
+var biggerAge = age >= 20;
+var smallerAge = !biggerAge;
+console.log("Maior que 20 anos: ", biggerAge);
+console.log("Menor que 20 anos: ", smallerAge);

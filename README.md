@@ -8,3 +8,4 @@
   - Módulo 5 - [HTML intermediário](https://github.com/lfnd0/Desenvolvimento_Web/tree/master/modulo5_html_intermediario) :file_folder:
   - Módulo 6 - [Projeto página de captura](https://github.com/lfnd0/Desenvolvimento_Web/tree/master/modulo6_projeto_pagina_captura) :file_folder:
   - Módulo 8 - [JavaScript básico](https://github.com/lfnd0/Desenvolvimento_Web/tree/master/modulo8_javascript_basico) :file_folder:
+  - Módulo 9 - [JavaScript intermediário](https://github.com/lfnd0/web-development/tree/master/modulo9_javascript_intermediario) :file_folder:

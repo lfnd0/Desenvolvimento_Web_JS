@@ -1,0 +1,7 @@
+div {
+    display: inline-block;
+    padding: 20px;
+    font-size: 2rem;
+    background-color: cornflowerblue;
+    color: aliceblue;
+}

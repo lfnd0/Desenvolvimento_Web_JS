@@ -5,16 +5,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eventos</title>
+    <title>Eventos pt. 2</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
+<body onload="pageLoad()">
     <img src="img/xbox-controller.jpg" alt="Controle Xbox">
 
     <br>
 
-    <div onclick="h1Hidden()">Click!</div>
+    <div onmouseover="onOver(this)" onmouseout="onOut(this)">
+        Click!
+    </div>
+
+    <p onmouseover="onOver(this)" onmouseout="onOut(this)">
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum, quam vel cupiditate quia dolor officia dolore
+        nemo distinctio dignissimos consectetur ad possimus expedita optio repudiandae omnis ab architecto blanditiis
+        nam?
+    </p>
 
     <script src="script.js"></script>
 </body>

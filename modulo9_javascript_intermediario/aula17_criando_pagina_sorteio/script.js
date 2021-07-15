@@ -1,4 +1,4 @@
-let peopleList = ["Marcus", "Spencer", "Grenny", "Logan", "Mary", "Robbie"]
+let peopleList = ["Marcus", "Spencer", "Yannie", "Logan", "Mary", "Robbie"]
 
 function draw() {
     let people = peopleList.length;

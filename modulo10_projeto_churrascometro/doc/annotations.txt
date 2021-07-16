@@ -1,0 +1,20 @@
+- Regras de negócio (consumo por pessoa):
+- Crianças valem por 1/2 dos valores descritos abaixo.
+
+    - Carne:
+        - Duração até 5h:
+            - 400g
+        - Duração + de 6h:
+            - 650g
+    
+    - Cerveja:
+        - Duração até 5h:
+            - 1200mL
+        - Duração + de 6h:
+            - 2000mL
+    
+    - Refrigerante/água:
+        - Duração até 5h:
+            - 1000mL
+        - Duração + de 6h:
+            - 1500mL

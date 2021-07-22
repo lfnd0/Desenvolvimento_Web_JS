@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/styles/style.css">
+    <title>Vídeo controle</title>
+</head>
+
+<body>
+    <div class="container">
+        <video src="assets/video/wake-up.mp4" class="video" id="video-1"></video>
+        
+        <div class="control">
+            <img src="assets/images/skip-back.svg" class="btn" onclick="back()">
+            <img src="assets/images/skip-forward.svg" class="btn" onclick="forward()">
+            <img src="assets/images/decrease.svg" class="btn" onclick="decrease()">
+            <img src="assets/images/increase.svg" class="btn" onclick="increase()">
+            <img src="assets/images/play-circle.svg" class="btn" onclick="play()">
+            <img src="assets/images/stop.svg" class="btn" onclick="stop()">
+        </div>
+    </div>
+
+    <script src="scripts/script.js"></script>
+</body>
+
+</html>
